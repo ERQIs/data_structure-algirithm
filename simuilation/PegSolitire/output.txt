@@ -1,0 +1,33 @@
+solution 0:
+e -> x
+h -> j
+a -> i
+L -> h
+J -> L
+j -> J
+M -> K
+J -> L
+B -> J
+C -> K
+p -> F
+I -> K
+k -> I
+L -> J
+I -> K
+A -> I
+H -> J
+J -> L
+g -> M
+M -> K
+F -> p
+m -> k
+G -> m
+p -> d
+c -> a
+a -> i
+h -> j
+j -> l
+m -> k
+f -> P
+O -> x
+
